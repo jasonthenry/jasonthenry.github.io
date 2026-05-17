@@ -20,7 +20,7 @@ The goal is to build a working measurement tool, document the design process, an
 
 **Status:** In progress
 
-**Project repository:** Coming soon
+**Project repository:** [solar-panel-power-meter](https://github.com/jasonthenry/solar-panel-power-meter)
 
 ## Focus Areas
 
